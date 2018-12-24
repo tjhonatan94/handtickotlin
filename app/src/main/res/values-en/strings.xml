@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Username</string>
+    <string name="hint_user">User</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_clave">product key</string>
+    <string name="text_button_createaccount">join up</string>
+    <string name="toolbar_tittle_createaccount">Create Account</string>
+    <string name="dont_have_account">You do not have an account?,</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="tituloSatelital" translatable="false">SATELLITE</string>
+    <string name="tituloTerrestre" translatable="false">TERRESTRIAL</string>
+    <string name="tituloHibrido" translatable="false">HYBRID</string>
+    <string name="tituloNormal" translatable="false">NORMAL</string>
+    <string name="tiutlo_alerta" translatable="false">ALERT</string>
+    <string name="create_here">create one here</string>
+    <string name="titulo_ubicacion" translatable="false">Get Location</string>
+
+</resources>

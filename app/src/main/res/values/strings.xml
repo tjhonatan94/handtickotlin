@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hantic</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?,</string>
+    <string name="create_here">crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="hint_clave">Clave del Producto</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+
+    <string name="title_activity_maps" translatable="false">Mapa</string>
+    <string name="tituloSatelital" translatable="false">SATELITAL</string>
+    <string name="tituloTerrestre" translatable="false">TERRESTRE</string>
+    <string name="tituloHibrido" translatable="false">HIBRIDO</string>
+    <string name="tituloNormal" translatable="false">NORMAL</string>
+    <string name="tiutlo_alerta" translatable="false">ALERTA</string>
+    <string name="titulo_ubicacion" translatable="false">Obtener Ubicación</string>
+</resources>
+
